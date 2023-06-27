@@ -1,0 +1,23 @@
+[
+    {
+      "categoria_email": "cierreX",
+      "cliente_email": "faausc@gmail.com",
+      "copia_mail": "",
+      "Cierre": "2600",
+      "Usuario": "cajero2",
+      "ingreso": "05:52:12",
+      "salida": "15:52:06",
+      "efectivo": "261,60",
+      "debito": "20.780,59",
+      "retiros_caja": "75.000,00",
+      "retiros_proveedor": "0",
+      "ingreso_efectivo": "0",
+      "devoluciones": "0",
+      "declarado": "2.500",
+      "diferencia": "2.238,40",
+      "tick_cant": "118",
+      "art_cant": "287",
+      "art_prom": "2,43",
+      "tick_prom": "635,59"
+    }
+  ]

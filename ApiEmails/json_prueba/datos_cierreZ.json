@@ -1,0 +1,20 @@
+[
+  {
+  "categoria_email": "cierreZ",
+  "cliente_email": "faausc@gmail.com",
+  "copia_mail": "",
+  "Medios": {"EFECTIVO": "1000000","TRANSF": "1000000","M PAGO": "1000000"},
+  "Total_caja": "1000000",
+  "retiros_caja": "1000000",
+  "retiros_proveedor": "1000000",
+  "ingreso_efectivo": "1000000",
+  "devoluciones": "1000000",
+  "declarado": "1000000",
+  "diferencia": "1000000",
+  "tick_cant": "1000000",
+  "art_cant": "0",
+  "art_prom": "0",
+  "tick_prom": "0",
+  "efectivo_gral":"1000000"
+  }
+  ]
